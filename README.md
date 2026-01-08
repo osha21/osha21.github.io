@@ -48,7 +48,7 @@ This test will include 2 male participants (age = 25). They both listen to music
 The setup for this test is taking inspiration from Zatorre, Robert & Blood, Anne’s study on musical chills[3]. The participants will choose and listen to one song that is successful in eliciting chills for themselves, which also will be presented to the other participant. In total two excerpts for two songs will be presented for reduced time during testing. The first clip is the last 2.5 minutes of Let Down - Radiohead and the second clip is the last 2.5 minutes of Hallelujah - Jeff Buckley (chosen by the participants).
 The listening environment is relaxed and free of any distractions like other people or disrupting sounds. A FLIR C2 thermal camera will be used to capture the temperature of each participant’s arm. This camera will be mounted and have the same position throughout the experiment. An image of the test setup can be seen below through the lens of the thermal camera.
 
-![Thermal camera for the test setup]()
+![Thermal camera for the test setup](SMPC%Images/1.PNG)
 
 The participant will have a button available to mark when they experience chills, which will be synchronized with their thermal temperature during each song. This should give a window to look for temperature drops in the participants.
 Furthermore, to capture any emotional change throughout the listening experience each participant will answer a PANAS questionnaire[7].
